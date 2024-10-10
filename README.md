@@ -15,6 +15,44 @@ This project is a challenge to classify a hero's level based on the amount of ex
 - **9,001 - 10,000 XP**: Immortal
 - **10,001 XP or more**: Radiant
 
+## How to Install
+
+Clone this repository on your local machine.
+
+### Choose your package manager:
+
+<details>
+  <summary>Using <strong>yarn</strong></summary>
+
+  1. Install the necessary modules using `yarn`:
+     ```bash
+     yarn install
+     ```
+
+  2. Build and run the project:
+     ```bash
+     yarn build   # Compiles the project
+     yarn start   # Starts the program
+     ```
+
+</details>
+
+<details>
+  <summary>Using <strong>npm</strong></summary>
+
+  1. Install the necessary modules using `npm`:
+     ```bash
+     npm install
+     ```
+
+  2. Build and run the project:
+     ```bash
+     npm run build   # Compiles the project
+     npm run start   # Starts the program
+     ```
+
+</details>
+
 ## How to Use
 
 1. Input the hero's name.
